@@ -1,0 +1,10 @@
+{
+  "name": "Star Wars App",
+  "authors": [
+    "Roberto da Silva Rotondo <roberto.srotondo@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": ""
+}
